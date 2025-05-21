@@ -1,0 +1,7 @@
+# Core functionality - changes here should be rare!
+/src/app.py                   @VSI12
+/src/backend/database.py      @VSI12
+/src/backend/routers/auth.py  @VSI12
+
+# The frontend will need refactored soon to be more object oriented.
+/src/static/   @VSI12
